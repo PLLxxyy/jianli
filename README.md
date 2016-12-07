@@ -5,9 +5,4 @@ introduce
 ### 姓名：李晓玉
 ### 年龄：22
 ### 专业：工程管理
-
-
-djdjjjjjjjjjjjjjjjjjjj
-
-
-djdjjddshkhkjshkjhdkjhdkj
+### 我的头像
